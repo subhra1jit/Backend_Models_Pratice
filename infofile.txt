@@ -1,0 +1,10 @@
+1. Here combination of the different backend models for different projects
+       1.Advanced Todo Project
+       2.Ecommerce Application
+       3.Hospital Management Application
+       4.Blog Application
+
+2. Technology Used : 
+        1. Express.js
+        2. Mongoose -(data modeling helper ) like this we are also having prizma
+        3. data modeling tool like  - moon modeler (most company used) , earser.io
